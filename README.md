@@ -1,7 +1,7 @@
-# VINCI 24 Submission
+# IJHCI 24 Submission
 
 ## Description
-This repository contains the submission for the VINCI 24, including the source code of the prototype, the dataset of the user study, and the analysis code.
+This repository contains the submission for the IJHCI 24, including the source code of the prototype, the dataset of the user study, and the analysis code.
 
 ## Abstract
 Impulsive purchasing tendencies exist on Douyin, the most popular Chinese social media platform, primarily due to the users’ exposure
